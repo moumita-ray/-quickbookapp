@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<QBWCXML>
+	<AppName>QuickBooks - Codaemon Add Customer Integrator</AppName>
+	<AppID></AppID>
+	<AppURL>http://localhost/quickbookapp/web_connector/app_web_connector_queueing.php</AppURL>
+	<AppDescription></AppDescription>
+	<AppSupport>http://localhost/quickbookapp/web_connector/app_web_connector_queueing.php?support=1</AppSupport>
+	<UserName>quickbooks</UserName>
+	<OwnerID>{60A54FB7-33D9-4815-AC85-AC76A7E7D1EG}</OwnerID>
+	<FileID>{47F3B8B6-86F1-4fcc-B1FF-967DE1913D28}</FileID>
+	<QBType>QBFS</QBType>
+	<Scheduler>
+		<RunEveryNMinutes>5</RunEveryNMinutes>
+	</Scheduler>
+	<IsReadOnly>false</IsReadOnly>
+</QBWCXML>
